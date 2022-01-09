@@ -21,6 +21,7 @@ public class AutoBase2 {
     private String state;
 boolean die=false;
 public static final AutoBase2 AUTO_BASE_2=new AutoBase2();
+Random random =new Random();
     public AutoBase2() {
     }
 
